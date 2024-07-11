@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Stefano Segnini</h1>
-<h3 align="center">I am a programmer specialized in the area of data science and data analysis.</h3>
+<h3 align="center">I am a programmer specialized in the area of Data Science and Data Analysis.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=stefano2211&label=Profile%20views&color=0e75b6&style=flat" alt="stefano2211" /> </p>
 
@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **I am currently studying more in the area of neural networks with keras and tenserflow.**
 
-- 👯 I’m looking to collaborate on **I am looking to collaborate in a project related to deep learning.**
+- 👯 I’m looking to collaborate on **I am looking to collaborate in a project related to Deep Learning.**
 
 - 👨‍💻 All of my projects are available at [https://github.com/stefano2211](https://github.com/stefano2211)
 
