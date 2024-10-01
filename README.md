@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Stefano Segnini</h1>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+Stefano+Segnini)](https://git.io/typing-svg)
 <h3 align="center">I am a programmer specialized in the area of Data Science and Data Analysis.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=stefano2211&label=Profile%20views&color=0e75b6&style=flat" alt="stefano2211" /> </p>
