@@ -10,7 +10,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/stefano2211](https://github.com/stefano2211)
 
-- 📫 How to reach me **stefano.andres2004@gmail.com**
+- 📫 How to reach me **andres@stefano.lat**
 
 - 📄 Know about my experiences [I have approximately 6 months working as an analyst and data scientist.](I have approximately 6 months working as an analyst and data scientist.)
 
