@@ -2,9 +2,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=stefano2211&label=Profile%20views&color=0e75b6&style=flat" alt="stefano2211" /> </p>
 
-- 🔭 I’m currently working on [In a company dedicated to the marketing area to analyze and create models that predict potential customers, analysis of social networks and models to implement them with email marketing.](Hand Digital)
+- 🔭 I worked on [In a company dedicated to the marketing area to analyze and create models that predict potential customers, analysis of social networks and models to implement them with email marketing.](Hand Digital)
 
-- 🌱 I’m currently learning **I am currently studying more in the area of neural networks with keras and tenserflow.**
+- 🌱 I’m currently learning **I am currently studying more in the area of neural networks with keras and tensorflow.**
 
 - 👯 I’m looking to collaborate on **I am looking to collaborate in a project related to Deep Learning.**
 
